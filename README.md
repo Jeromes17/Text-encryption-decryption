@@ -22,7 +22,7 @@ Demonstration:
 - "http://localhost:3000/decrypt" for decryption
 - Change the msg format to raw and give your text in JSON format
 - Ex for encryption :
-- {
+ {
     "text": "encryption web app"
 }
 - Ex for decryption :
