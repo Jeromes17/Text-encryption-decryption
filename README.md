@@ -7,7 +7,7 @@ Requirements:
 
 Demonstration:
 - Open your node js in terminal
-- Create new directory for the project and go tho that directory
+- Create new directory for the project and go to that directory
 - Install express package using "npm install express dotenv"
 - Create server.js file in it
 - Create .env file
@@ -15,7 +15,7 @@ Demonstration:
 - Update the .env file with your key
 - Run node js app using "node server.js"
 
-  After started nide app
+  After started node app
 - Open Postman app
 - Change the get option to post and give the url
 - "http://localhost:3000/encrypt" for encryption
